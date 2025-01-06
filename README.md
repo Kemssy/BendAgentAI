@@ -43,8 +43,8 @@ This is a monorepo using Turborepo and Yarn workspaces containing:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aryan877/brainpower
-cd brainpower
+git clone https://github.com/Kemssy/BendAgentAI
+cd BendAgentAI
 ```
 
 2. Install dependencies:

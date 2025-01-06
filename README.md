@@ -1,4 +1,4 @@
-# BrainPower
+# Bend Agent AI
 
 An AI-powered blockchain agent that can interact with the Solana blockchain. Built with OpenAI's Assistant API and solana-agent-kit.
 
